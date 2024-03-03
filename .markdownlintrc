@@ -31,5 +31,5 @@
   "no-duplicate-header": false,
   "no-hard-tabs": false,
   "ol-prefix": false,
-  "whitespace": false
+  "whitespace": false,
 }
